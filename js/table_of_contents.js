@@ -1,3 +1,8 @@
+/**
+ * https://github.com/kenreitz42/pep8.org
+ * Copyright (c) 2021 Ken Reitz
+ */
+
 window.addEventListener("DOMContentLoaded", function(event) {
   // get headers from page
   var content = document.querySelector('.nine.columns');
